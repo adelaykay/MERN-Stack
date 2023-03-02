@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 
 // components
 import WorkoutDetails from '../components/WorkoutDetails.js'
+import WorkoutForm from '../components/WorkoutForm.js'
 
 const Home = () => {
   const [workouts, setWorkouts] = useState(null)
@@ -25,6 +26,7 @@ const Home = () => {
         {isPending && <p>...Loading</p>}
         {workouts && workouts.map(work => <WorkoutDetails key={work._id} workout={work} />)}
       </div>
+      <WorkoutForm />
     </div>
   )
 }
