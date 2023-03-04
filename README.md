@@ -1,2 +1,6 @@
-# MERN-Stack-Tutorial
-All course files for the MERN Stack Tutorial course on the Net Ninja YouTube channel &amp; the Net Ninja Pro website.
+## Workouts App built on MERN stack
+
+# MongoDB
+# Express
+# React
+# NodeJS
