@@ -1,6 +1,6 @@
-## Workouts App built on MERN stack
+# Workouts App built on MERN stack
 
-# MongoDB
-# Express
-# React
-# NodeJS
+## MongoDB
+## Express
+## React
+## NodeJS
